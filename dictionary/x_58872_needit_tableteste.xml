@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="4dd855c08398e610a42cf4c6feaad3b0" label="TableTeste" max_length="40" name="x_58872_needit_tableteste" type="collection">
+        <element label="Nome" max_length="40" name="nome" type="string"/>
+        <element label="Filiacao" max_length="40" name="filiacao" type="string"/>
+        <element label="Sobrenome" max_length="40" name="sobrenome" type="string"/>
+        <element label="CPF" max_length="40" name="cpf" type="string"/>
+    </element>
+</database>
