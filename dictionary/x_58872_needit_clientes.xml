@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="c5b7b88683a926104c49c2dfeeaad304" label="Clientes" max_length="40" name="x_58872_needit_clientes" type="collection">
+        <element label="CPF" max_length="11" name="cpf" type="string"/>
+        <element label="Estado Civil" max_length="20" name="estado_civil" type="string"/>
+        <element label="Sobrenome" max_length="50" name="sobrenome" type="string"/>
+        <element label="Email" max_length="25" name="email" type="string"/>
+        <element label="RG" max_length="15" name="rg" type="string"/>
+        <element label="Nome" max_length="50" name="nome" type="string"/>
+    </element>
+</database>
